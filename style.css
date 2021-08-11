@@ -1,0 +1,113 @@
+.container{
+    margin-bottom: 60px;
+}
+
+label img{
+    height: 50px;
+    line-height: 80px;
+    margin-top: 20px;
+}
+
+ul{
+    list-style: none;
+    float: right;
+    margin-right: 40px;
+}
+
+ul li{
+    display: inline-block;
+    line-height: 80px;
+}
+
+ul li a{
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 60px;
+    text-decoration: none;
+}
+
+ul li a:hover, a.active{
+    background-color: #21B573;
+    color: white;
+    transition: .5s;
+}
+
+.top{
+    background-color: #F0FFF0;
+    height: 550px;
+    margin-bottom: 80px;
+}
+
+.row img{
+    width: 100%;
+}
+
+.get-start{
+    color: white;
+    background-color: #21B573;
+    border: 1px solid #21B573;
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+
+.get-start:hover{
+    background-color: #21B573;
+}
+
+h1.heading{
+    font-weight: bolder;
+}
+
+.red-p{
+    color: red;
+}
+
+span{
+    color:#21B573;
+}
+
+.card img{
+    height: 80px;
+    width: 80px;
+}
+
+.icon img{
+    height: 60px;
+    width: 60px;
+}
+
+.icon .row .col-md-3 .box{
+    text-align: center;
+    background-color: #21b57227;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.icon .row .col-md-3 .box h4{
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.token{
+    margin: 30px 0px;
+}
+
+.online-courses h1{
+    text-align: center;
+}
+
+.online-courses img{
+    width: 100%;
+    height: 250px;
+    padding: 20px;
+}
+
+.card-footer img{
+    height: 70px;
+    width: 70px;
+}
+
+.text-muted{
+    align-content: center;
+}
